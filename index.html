@@ -1,13 +1,17 @@
 <!DOCTYPE html>
-<html>
+<html lang="en-US">
 <head>
-  <title> Mr. Roboger's Neighborhood </title>
-  <!-- <h1> Week 3 Project </h1> -->
+    <link href="styles.css" rel="stylesheet" type="text/css">
+    <script src="scripts.js"></script>
+    <title>Programming languages</title>
+<body>
 
-  <script>
-    function displayList() {
-        let userInput = parseInt(document.getElementbyId("user-input").value);
-        let outcomeList = document.getElementById("outcome-List");
-
-
-        
+  <h1>Number Substitution</h1>
+  <label for="user-input">Enter a number:</label>
+  <input type="number" id="user-input" />
+  <button onclick="generateList()">Generate List</button>
+  <h2>Result:</h2>
+  <p id="result-list"></p>
+  
+</body>
+</html>
