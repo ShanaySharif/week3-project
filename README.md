@@ -1,27 +1,3 @@
-#Portfolio landing project!
-By Shankaron Mohamed
-
-
-
-##Technologies Used
--HTML
--CSS
--Javascript
-
-###Description
-
-####Setup/Installation Requirements
-
-
-#####License
-MIT
-
-Copyright (c) 2023 Shankaron Mohamed
-
-
-
-#####Describe: testGenerateListFunction()
-
 
 Test: "It should return correct values when user enters 1"
 code: testGenerateListFunction(5) 
