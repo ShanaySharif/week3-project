@@ -1,5 +1,3 @@
-//Business Logic 
-
 function testGenerateListFunction(userInput) {
     let list = [];
     for (let i = 0; i <= userInput; i++) {
@@ -14,27 +12,28 @@ function testGenerateListFunction(userInput) {
         list.push(value);
       }
     }
-console.log(list.join(", "));
-}
 
+    console.log(list.join(", "));
+  }
 
-      //UI
+//UI
+function generateList() {
+    let userInput = parseInt(document.getElementById("user-input").value);
+    let resultList = document.getElementById("result-list");
 
-      let list = [];
-      for (let i = 0; i <= userInput; i++) {
-        let value = i.toString();
-        if (value.includes("3")) {
-          list.push("Won't you be my neighbor?");
-        } else if (value.includes("2")) {
-          list.push("Boop!");
-        } else if (value.includes("1")) {
-          list.push("Beep!");
-        } else {
-          list.push(value);
-        }
+    let list = [];
+    for (let i = 0; i <= userInput; i++) {
+      let value = i.toString();
+      if (value.includes("3")) {
+        list.push("Won't you be my neighbor?");
+      } else if (value.includes("2")) {
+        list.push("Boop!");
+      } else if (value.includes("1")) {
+        list.push("Beep!");
+      } else {
+        list.push(value);
       }
-  
-      resultList.innerHTML = list.join(", ");
     }
-  
 
+    resultList.innerHTML = list.join(", ");
+  }
