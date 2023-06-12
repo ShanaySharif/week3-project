@@ -2,7 +2,6 @@
 By Shankaron Mohamed
 
 
-
 ## Technologies Used
 -HTML
 -CSS
@@ -11,6 +10,12 @@ By Shankaron Mohamed
 ### Description
 
 #### Setup/Installation Requirements
+- open https://github.com/ShanaySharif/week3-project in your browser!
+- Go to repository
+- Download zipfolder
+- open up Visual Studio Code
+- Open folder with the repository that was downloaded
+in Visual Studio Code on the bottom right hand side, run the application and it should open on your browser.
 
 ## Tests
 
@@ -43,11 +48,9 @@ Test: "If a user inputs a 17, it should display list of values starting with 0 t
 code: testGenerateListFunction(17) 
 Expected Output: 0, Beep!, Boop!, Won't you be my neighbor?, 4, 5, 6, 7, 8, 9, Beep!, Beep!, Boop!, Won't you be my neighbor?, Beep!, Beep!, Beep!, Beep!
 
-#####License
+##### License
 MIT
 
 Copyright (c) 2023 Shankaron Mohamed
 
 
-
-#####Describe: testGenerateListFunction()
