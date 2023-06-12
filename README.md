@@ -36,8 +36,8 @@ Expected Output:  0, "Beep", "Boop!", "Won't you be my neighbor?".
 
 
 Test: "If a user inputs a 5, it should display a list of values starting with 0 to the user's inputted number, with the number 3 subsituted with the correct phrase"
-code: testGenerateListFunction(5) 
-Expected Output: 0, "Beep", "Boop!", "Won't you be my neighbor?", 4, 5.
+- code: testGenerateListFunction(5) 
+- Expected Output: 0, "Beep", "Boop!", "Won't you be my neighbor?", 4, 5.
 
 Test:"If a user inputs a 14, it should display a list of values starting with 0 to the user's inputted number, with the number 3 subsituted with the correct phrase. 
 code: testGenerateListFunction(14) 
