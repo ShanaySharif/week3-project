@@ -2,7 +2,7 @@
 By Shankaron Mohamed
 
 
-## Technologies Used
+### Technologies Used
 -HTML
 -CSS
 -Javascript
