@@ -1,4 +1,19 @@
-<!-- 
+# Week 3 Project - Arrays and Looping!
+By Shankaron Mohamed
+
+
+
+## Technologies Used
+-HTML
+-CSS
+-Javascript
+
+### Description
+
+#### Setup/Installation Requirements
+
+## Tests
+
 Test: "It should return correct values when user enters 1"
 code: testGenerateListFunction(5) 
 Expected Output: 0, "Beep".
@@ -26,27 +41,7 @@ Expected Output: 0, Beep!, Boop!, Won't you be my neighbor?, 4, 5, 6, 7, 8, 9, B
 
 Test: "If a user inputs a 17, it should display list of values starting with 0 to the user's inputted number, with the number 3 subsituted with the correct phrase. 
 code: testGenerateListFunction(17) 
-Expected Output: 0, Beep!, Boop!, Won't you be my neighbor?, 4, 5, 6, 7, 8, 9, Beep!, Beep!, Boop!, Won't you be my neighbor?, Beep!, Beep!, Beep!, Beep! -->
-
-
-
-
-
-
-#Week 3 Project - Arrays and Looping!
-By Shankaron Mohamed
-
-
-
-##Technologies Used
--HTML
--CSS
--Javascript
-
-###Description
-
-####Setup/Installation Requirements
-
+Expected Output: 0, Beep!, Boop!, Won't you be my neighbor?, 4, 5, 6, 7, 8, 9, Beep!, Beep!, Boop!, Won't you be my neighbor?, Beep!, Beep!, Beep!, Beep!
 
 #####License
 MIT
