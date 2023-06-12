@@ -48,7 +48,7 @@ Test: "If a user inputs a 17, it should display list of values starting with 0 t
 - code: testGenerateListFunction(17) 
 - Expected Output: 0, Beep!, Boop!, Won't you be my neighbor?, 4, 5, 6, 7, 8, 9, Beep!, Beep!, Boop!, Won't you be my neighbor?, Beep!, Beep!, Beep!, Beep!
 
-##### License
+### License
 MIT
 Copyright (c) 2023 Shankaron Mohamed
 
