@@ -2,14 +2,14 @@
 By Shankaron Mohamed
 
 
-### Technologies Used
+## Technologies Used
 -HTML
 -CSS
 -Javascript
 
-### Description
+## Description
 
-#### Setup/Installation Requirements
+### Setup/Installation Requirements
 - open https://github.com/ShanaySharif/week3-project in your browser!
 - Go to repository
 - Download zipfolder
