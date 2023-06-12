@@ -1,3 +1,4 @@
+//Business Logic
 function testGenerateListFunction(userInput) {
     let list = [];
     for (let i = 0; i <= userInput; i++) {
