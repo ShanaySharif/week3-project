@@ -17,7 +17,7 @@ By Shankaron Mohamed
 - Open folder with the repository that was downloaded
 in Visual Studio Code on the bottom right hand side, run the application and it should open on your browser.
 
-### Known Bugs
+## Known Bugs
 
 ## Tests
 
