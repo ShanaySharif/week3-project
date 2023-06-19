@@ -17,14 +17,16 @@ By Shankaron Mohamed
 - Open folder with the repository that was downloaded
 in Visual Studio Code on the bottom right hand side, run the application and it should open on your browser.
 
+### Known Bugs
+
 ## Tests
 
 Test: "It should return correct values when user enters 1"
-code: testGenerateListFunction(5) 
+code: generateList(5) 
 Expected Output: 0, "Beep".
 
 Test: "It should return correct values when user enters 2"
-code: testGenerateListFunction(2) 
+code: generateList(2) 
 Expected Output: 0, "Beep", "Boop!"
 
 
