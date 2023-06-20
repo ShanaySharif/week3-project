@@ -18,7 +18,7 @@ By Shankaron Mohamed
 in Visual Studio Code on the bottom right hand side, run the application and it should open on your browser.
 
 ## Known Bugs
-No known bugs
+- No known bugs
 
 ## Tests
 
